@@ -1,2 +1,8 @@
 # Under Development ⚠️
 # Don't fork ⚠️
+
+[LICENSE BY PIKA](LICENSE)
+
+
+[ORIGINAL README FILE](README-OG.md)
+[ORIGINAL LICENCE FILE](LICENCE-OG)
